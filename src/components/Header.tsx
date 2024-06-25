@@ -2,7 +2,6 @@ import { Waypoints } from 'lucide-react';
 import Link from 'next/link';
 import React from 'react';
 import { ModeToggle } from './ModeToggle';
-import { Button } from './ui/button';
 
 function Header() {
   return (
